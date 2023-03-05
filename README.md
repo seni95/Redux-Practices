@@ -1,3 +1,3 @@
-# vanilla redux
+# 리덕스 실습 페이지
 
-Learning Vanilla-Redux and React-Redux
+리덕스를 익히며 실습한 소스코드들이 담겨있는 페이지입니다.
